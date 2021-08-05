@@ -23,7 +23,8 @@ Here are some ideas to get you started:
  
  👩 ME (연락처) 
  
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/daum-0095D5?style=for-the-badge&logo=daum&logoColor=white">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats)
   
