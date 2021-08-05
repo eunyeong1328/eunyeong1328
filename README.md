@@ -30,4 +30,7 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyoung56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+👩💻 Portfolio Notion
+---
+https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421
 
