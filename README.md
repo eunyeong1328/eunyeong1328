@@ -24,8 +24,6 @@ Here are some ideas to get you started:
  👩 ME (연락처) 
  
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/Email:daum-0095D5?style=for-the-badge&logo=daum&logoColor=white"> 
-https://img.shields.io/aur/last-modified/%E3%84%B9?color=%E3%85%87&label=%E3%85%87&logo=%E3%85%87&logoColor=%E3%85%87&style=flat-square
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats)
