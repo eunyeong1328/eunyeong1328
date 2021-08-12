@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
  👩 ME (연락처) 
  
-<a href="https://velog.io/@eunyeong560" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/Email:daum-0095D5?style=for-the-badge&logo=daum&logoColor=white"> <a href="https://velog.io/@eunyeong560" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/Email:daum-0095D5?style=for-the-badge&logo=daum&logoColor=white"> ****
+<a href="https://velog.io/@eunyeong560" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/Email:daum-0095D5?style=for-the-badge&logo=daum&logoColor=white"> 
 
 
 
