@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
  
- 👩 ME (연락처) 
+ 👩 Contacts
  
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/Email:daum-0095D5?style=for-the-badge&logo=daum&logoColor=white"> 
 
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyoung56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 👩💻 Portfolio Notion
 ---
