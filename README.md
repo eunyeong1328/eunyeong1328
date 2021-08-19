@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg/></a>
-
 👩💻 Portfolio Notion
 ---
 https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421
