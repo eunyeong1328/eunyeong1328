@@ -1,5 +1,5 @@
 ### Hi there, I'm EunYoung 👋
-성장하는 개발자
+성장중인 개발자
 
 <!--
 **eunyoung56/eunyoung56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
