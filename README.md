@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyoung56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src ="https://img.shields.io/badge/email-eunyeong1328%40duam.net-brightgreen"/>
+<img src ="https://img.shields.io/badge/email-eunyeong1328%40duam.net-blue"/>
 
 👩💻 Portfolio Notion
 ---
