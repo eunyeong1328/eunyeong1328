@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyoung56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a> 
-
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2356AFE9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=email&edge_flat=true"/></a>
 
 
 👩💻 Portfolio Notion
