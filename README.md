@@ -26,12 +26,12 @@ Here are some ideas to get you started:
  
  👩 Contacts
  
-<a href="https://velog.io/@eunyeong560" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/Email:daum-0095D5?style=for-the-badge&logo=daum&logoColor=white"> 
-
+ 
+<a href="https://velog.io/@eunyeong560" target="_blank"> <img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
+<img src ="https://img.shields.io/badge/email-eunyeong1328%40duam.net-blue"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyoung56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src ="https://img.shields.io/badge/email-eunyeong1328%40duam.net-blue"/>
 
 👩💻 Portfolio Notion
 ---
