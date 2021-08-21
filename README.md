@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   svn, Jenkins, eclipse
  
- 👩 Contacts
+ 👩 Contacts .
  
  
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
