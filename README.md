@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
  
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
-<a href="https://img.shields.io/badge/email-eunyeong1328%40duam.net-blue"><img src ="https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red/>
+<a href="https://img.shields.io/badge/email-eunyeong1328%40duam.net-blue"> <a href = "https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyoung56)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyoung56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
