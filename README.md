@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   
  👩 Contacts 
  
- 
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
 <a href = "https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"> <img src ="https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"/> 
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
 
 👩💻 Portfolio Notion
----
+--- 
 https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421
 
 <div align = "right">
