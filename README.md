@@ -1,5 +1,6 @@
 ### Hi there, I'm EunYoung 👋
 성장중인 개발자
+현재 스프링 기반 웹 
 
 <!--
 **eunyoung56/eunyoung56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
