@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Welcome%World!type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 성장중인 개발자   
 일상에 도움을 주고 싶은 개발자
