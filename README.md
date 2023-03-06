@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=Welcome%20World&desc=성장중인%20개발자)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20World&desc=성장중인%20개발자)
 
 <!--
 **eunyoung56/eunyoung56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328&show_icons=true&theme=vue)
   
- Contacts 
+📫 Contacts 
  
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
 <a href = "https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"> <img src ="https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"/> 
