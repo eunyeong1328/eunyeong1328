@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20World!&desc=성장중인%20개발자%20render)
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Welcome%20World!&desc=성장중인%20개발자%20render)
 
 <!--
 **eunyoung56/eunyoung56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
