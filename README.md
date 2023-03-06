@@ -24,22 +24,27 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  </div>
+ 
 <div align="center">  
  안드로이드
  
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   </div>
- <div align="center">
+  
+<div align="center">
 📫 Contacts 
  </div>
+<div align="center">
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
 <a href = "https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"> <img src ="https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"/> 
 </div>
+ 
 <div align="center">
 💻 Portfolio Notion
 --- 
 https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421
  </div>
+ 
 </div>
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
