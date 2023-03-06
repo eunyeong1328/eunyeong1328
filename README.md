@@ -1,4 +1,5 @@
-### Hi there, I'm EunYoung 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 성장중인 개발자   
 일상에 도움을 주고 싶은 개발자
 <!--
@@ -31,13 +32,13 @@ Here are some ideas to get you started:
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328&show_icons=true&theme=vue)
   
- 👩 Contacts 
+ Contacts 
  
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
 <a href = "https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"> <img src ="https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"/> 
 
 
-👩💻 Portfolio Notion
+💻 Portfolio Notion
 --- 
 https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421
 
