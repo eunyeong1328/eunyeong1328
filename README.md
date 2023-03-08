@@ -1,19 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&text=Welcome%20World&desc=성장중인%20개발자)
 
-<!--
-**eunyoung56/eunyoung56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Kotlin, 전자정부프레임워크
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: leeyoung778811@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
  🛠 Technology Stack 
  
@@ -21,19 +7,19 @@ Here are some ideas to get you started:
 </div>
 <div align="center"> 
  전자정부프레임워크
- 
+ <br>
  <img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  </div>
  
 <div align="center">  
  안드로이드
- 
+  <br>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   </div>
   
 <div align="center">
 📫 Contacts 
- 
+  <br>
  </div>
 
 <div align="center">
@@ -42,8 +28,8 @@ Here are some ideas to get you started:
 </div>
  
 <div align="center">
-💻 [Portfolio Notion](https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421)
- 
+💻 [Portfolio Notion] (https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421)
+  <br>
  </div>
  
 </div>
