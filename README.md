@@ -1,6 +1,7 @@
+<div align ="right">  
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328&theme=vue)](https://github.com/eunyeong1328/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328&theme=vue)](https://github.com/eunyeong1328/github-readme-stats)
 
    
 ### 🐯Technology Stack
@@ -9,8 +10,11 @@
 <img src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"><img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-
-
+  
+  </div>  
+  
+<div align="left">  
+  
 ### 📫 Contacts  
 
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
@@ -21,3 +25,5 @@
  [Notion](https://wave-jasmine-155.notion.site/45d6b834fde542909cfe805882bb5421)
 
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
+  </div>
