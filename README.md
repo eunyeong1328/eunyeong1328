@@ -7,7 +7,7 @@
   
 
     
-  <div align = "right">  
+  <div style ="float:left">  
     
 ### 🐯Technology Stack
  
