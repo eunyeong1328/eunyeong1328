@@ -1,10 +1,6 @@
 <div align = "center">   
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328&theme=vue)](https://github.com/eunyeong1328/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
-      
-</div>  
-    
-    
 
     
 ### 🐯Technology Stack
@@ -23,6 +19,5 @@
 
  ### 💻PortFolio  
   
- [Notion](https://wave-jasmine-155.notion.site/45d6b834fde542909cfe805882bb5421)  
-    </div>
-
+ [Notion](https://wave-jasmine-155.notion.site/45d6b834fde542909cfe805882bb5421)    
+   </
