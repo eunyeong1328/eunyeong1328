@@ -1,13 +1,13 @@
 <div align ="center">  
     
-  <div align = "left">  
+  <div style ="float:left">  
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328&theme=vue)](https://github.com/eunyeong1328/github-readme-stats)  
   </div>  
   
 
     
-  <div style ="float:left">  
+  <div style ="float:right">  
     
 ### 🐯Technology Stack
  
