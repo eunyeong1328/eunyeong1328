@@ -21,7 +21,7 @@
   
 
   
-<div align="left">  
+<span align="left">  
   
 ### 📫 Contacts  
 
@@ -30,5 +30,10 @@
 
  ### 💻PortFolio  
   
- [Notion](https://wave-jasmine-155.notion.site/45d6b834fde542909cfe805882bb5421)
+ [Notion](https://wave-jasmine-155.notion.site/45d6b834fde542909cfe805882bb5421)  
+    </span>    
+    <span>  
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
+        <span>
+    
 
