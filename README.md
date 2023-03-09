@@ -33,9 +33,10 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 </div>
     
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
-
+<div>
     
     
