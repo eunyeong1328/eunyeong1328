@@ -3,7 +3,7 @@
  <div>
  <div style ="float:right">
   
- (https://github-readme-stats.vercel.app/api?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
   
   </div>
   
@@ -19,15 +19,18 @@
  </div>
  
  <div>
+  
   <div style ="float:right">
  (https://github-readme-stats.vercel.app/api?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
   </div>
+  
  <div style ="float:right">
   📫 Contacts 
 <a href="https://velog.io/@eunyeong560" target="_blank"><img src ="https://img.shields.io/badge/Blog-eunyeong560.log-flat--square"/>
 <a href = "https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"> <img src ="https://img.shields.io/badge/email-leeyoung778811%40gmail.com-red"/> 
   💻 <a href = "https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421">
-  
+ </div>
+ 
  </div>
 
 
@@ -40,7 +43,7 @@
     
 <div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyeong1328)](https://github.com/eunyeong1328/github-readme-stats)
 <div>
