@@ -18,6 +18,6 @@
 
  ### 💻PortFolio  
   
- [Notion](https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421)
+ [Notion]([https://wave-jasmine-155.notion.site/HELLO-45d6b834fde542909cfe805882bb5421](https://wave-jasmine-155.notion.site/45d6b834fde542909cfe805882bb5421))
 
     
